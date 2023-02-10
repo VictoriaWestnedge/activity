@@ -1,0 +1,11 @@
+.navbar-natgeo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  box-shadow: 5px 0 10px rgba(0,0,0,0.15);
+  background-color: white;
+}
+.navbar-natgeo img {
+  width: 110px;
+}

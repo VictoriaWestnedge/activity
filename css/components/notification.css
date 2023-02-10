@@ -1,0 +1,30 @@
+.notifications {
+  background: white;
+}
+
+.notification {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgb(101, 100, 100);
+  padding: 10px 0px;
+
+}
+
+.notification p {
+  padding: 0px 2px;
+  margin: 5px 0px;
+}
+
+.notification small {
+ color: grey;
+}
+
+.notification-content {
+  flex-grow: 1;
+  padding: 0 24px;
+}
+
+.notification a {
+  color: gray;
+  font-size: 15px;
+}
